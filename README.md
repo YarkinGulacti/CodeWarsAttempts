@@ -2,7 +2,7 @@
 
 ## Profile Link and Badges
 
-[CodeWars Profile](https://www.codewars.com/users/YarkinGulacti)<br>
+[CodeWars Profile](https://www.codewars.com/users/YarkinGulacti)  
 ![Code Wars badge](https://www.codewars.com/users/YarkinGulacti/badges/large)
 
 ## List of successful Kata attempts
@@ -14,4 +14,5 @@
 - [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db)
 - [USD => CNY](https://www.codewars.com/kata/5977618080ef220766000022)
 - [What is between?](https://www.codewars.com/kata/55ecd718f46fba02e5000029)
-- [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
+- [Multiply](https://www.codewars.com/kata/50654ddff44f80020000000)
+  
